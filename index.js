@@ -36,4 +36,4 @@ function modulus(num1,num2){
     return result
 }
 
-console.log(modulus(100,40))
+console.log(modulus(100,60))
